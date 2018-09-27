@@ -1,0 +1,31 @@
+		//definite courses
+		definiteList.add(new Class("AI", "mwf", 930, 1020));
+		definiteList.add(new Class("Phys8", "tr", 955, 1110));
+		definiteList.add(new Class("MathMeth", "tr", 1120, 1235));
+
+
+
+		//courses
+		listOfCourses.add(new Class("Algo2", "tr", 1120, 1235));
+		listOfCourses.add(new Class("Algo1", "tr", 955, 1110));
+		listOfCourses.add(new Class("Database", "tr", 1315, 1430));
+		listOfCourses.add(new Class("MobileRobotics", "tr", 1440, 1555));
+		listOfCourses.add(new Class("Operations", "tr", 1120, 1235));
+		listOfCourses.add(new Class("Poststructuralism", "tr", 1315, 1430));
+		listOfCourses.add(new Class("Dynamics1", "m", 1315, 1615));
+		listOfCourses.add(new Class("Dynamics2", "t", 1315, 1615));
+		listOfCourses.add(new Class("Prob1", "mwf", 930, 1020));
+		listOfCourses.add(new Class("Prob2", "mwf", 1030, 1120));
+		listOfCourses.add(new Class("ShortStory", "mwf", 930, 1020));
+		listOfCourses.add(new Class("Robotics", "tr", 1440, 1555));
+		listOfCourses.add(new Class("AsianHum", "tr", 1440, 1555));
+		listOfCourses.add(new Class("Wisdom", "t", 1900, 2500));
+
+
+		//labs
+		listOfLabs.add(new Lab("Algo1Lab", "m", 850, 1020, "Algo1"));
+		listOfLabs.add(new Lab("Algo2Lab1", "m", 1315, 1445, "Algo2"));
+		listOfLabs.add(new Lab("Algo2Lab2", "m", 1500, 1630, "Algo2"));
+		listOfLabs.add(new Lab("DatabaseLab1", "w", 1315, 1445, "Database"));
+		listOfLabs.add(new Lab("DatabaseLab2", "w", 1500, 1430, "Database"));
+		

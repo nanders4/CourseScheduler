@@ -1,0 +1,21 @@
+		//definite courses
+		definiteList.add(new Class("PSRF", "t", 1300, 1600));
+
+
+
+		//courses
+		listOfCourses.add(new Class("CellBio", "t", 955, 1110));
+		listOfCourses.add(new Class("Ceramics", "mw", 1315, 1600));
+		listOfCourses.add(new Class("BioSeminar", "mw", 1315, 1600));
+		listOfCourses.add(new Class("IntPolitics", "tr", 1120, 1235));
+		listOfCourses.add(new Class("PSRF", "t", 1300, 1600));
+		listOfCourses.add(new Class("Anthro", "tr", 955, 1110));
+		listOfCourses.add(new Class("Sculpture", "mw", 830, 1110));
+		listOfCourses.add(new Class("Evolution", "tr", 1120, 1235));
+
+
+		//labs
+		listOfLabs.add(new Lab("CellLab1", "w", 1315, 1615, "CellBio"));
+		listOfLabs.add(new Lab("EvolutionLab1", "w", 1315, 1615, "Evolution"));
+		listOfLabs.add(new Lab("EvolutionLab2", "r", 1315, 1615, "Evolution"));
+		
